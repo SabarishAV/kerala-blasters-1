@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Croissant+One&family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Libre+Baskerville:wght@700&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600&family=Play:wght@400;700&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400&family=Roboto&family=Roboto+Slab:wght@900&family=Space+Grotesk:wght@300;500&family=Young+Serif&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+    font-family: 'Young Serif', serif;
+    font-size: x-large !important;
+    color: yellow !important;
+}
+.nav-link{
+    color: rgba(255, 255, 255, .5) !important;
+}
+.nav-link:hover{
+    color: rgba(255, 255, 255, .8) !important;
+}
+.btn-search{
+    border-color: yellow !important;
+    color: yellow !important;
+}
+.search-inp{
+    background-color: #1e4bc8 !important;
+    border: none !important;
+}
+.about-1{
+    height: 65vh;
+    background-image: url("../Images/About1.jpg");
+    background-size: cover;
+}
+.h1-about{
+    font-family: fantasy;
+    font-size: 5rem;
+}
+.h1-about:hover{
+    color: #dbd51a;
+}
+.about-2{
+    height: 50vh;
+}
+.all-img{
+    border-radius: 2rem;
+}
+.heading-2{
+    color: #852929;
+}
+.contents{
+    font-family: Constantia;
+}
+.accordion-item{
+    border: none !important;
+}
+.accordion-button{
+    font-family: Impact;
+    font-size: 1.5rem !important;
+}
+.accordion-button:hover{
+    color: #dbd51a;
+}
+.quote{
+    font-family: "Arial Black";
+}
+.commentator{
+    font-family: Times;
+    font-size: .8rem;
+}
+.author{
+    font-family: "Microsoft Himalaya";
+    font-weight: 700;
+}
+a{
+   text-decoration: none !important;
+   color: black !important;
+}
+.author:hover{
+    color: #1e4bc8;
+}
+footer h3{
+    font-family: "Arial Black";
+    color: white;
+}
+footer p{
+    color: white;
+}
+footer i{
+    color: white;
+}
+footer a{
+    color: #bbb !important;
+}
+.blog:hover{
+    color: yellow;
+}
+.footer-end{
+    background-color: #2b59f0;
+}
+.copyright{
+    color: #bbb;
+}
